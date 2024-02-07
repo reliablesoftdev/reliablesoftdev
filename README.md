@@ -132,9 +132,21 @@ A highly skillful Developer will help you whenever you need.<br>
     </td>
  </tr>
  <tr>
-      <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>MongoDB
+      <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wix" width="48" height="48" alt="Wix" />
+      <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
     </td>
  </tr>
 </table>

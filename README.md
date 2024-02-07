@@ -10,14 +10,14 @@ I am an experienced and highly motivated software engineer with over 5 years of 
   * collaborating: I enjoy working as a team memeber.<br>
 
  <h4>Followings are my experience and skill sets:</h4>
+✔️ <b>Programming Languages:</b> C++, C#, QT, Electron, GO<br>
 ✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
 ✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django, C#/ASP.NET, Ruby on Rails, PHP/Laravel, CakePHP, Flask, Restful API, Firebase, Docker, Elasticsearch<br>
 ✔️ <b>Database:</b> MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
 ✔️ <b>Mobile:</b> React Native, Flutter, Swift, Cordova, Xamarin, Ionic<br>
 ✔️ <b>DevOps:</b> AWS, Azure, Kubernetes, Docker, OpenShift, CI/CD pipelines<br>
-✔️ <b>Desktop Application:</b> C++, C#, QT, Electron, GO<br>
 ✔️ <b>CMS:</b> WordPress, Drupal, Joomla, Magento<br>
-✔️ <b>Python:</b> OpenCV, TensorFlow, PyTorch, Numpy, Pandas, Matplotlib, SciPy<br>
+✔️ <b>AI:</b> OpenCV, TensorFlow, PyTorch, Numpy, Pandas, Matplotlib, SciPy<br>
 ✔️ <b>Machine Learning and Deep Learning:</b> Pattern Recognition, Computer Vision, NLP, GANs<br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
 ✔️ <b>MLOps and Cloud Techs:</b> Docer, Kubernetes, Terraform, AWS, Serverless architecture<br>

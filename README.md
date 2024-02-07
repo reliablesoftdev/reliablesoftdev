@@ -137,7 +137,7 @@ A highly skillful Developer will help you whenever you need.<br>
       <br>WordPress
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wix" width="48" height="48" alt="Wix" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Wix" />
       <br>WordPress
     </td>
      <td align="center" width="96">

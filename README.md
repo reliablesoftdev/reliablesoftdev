@@ -1,12 +1,6 @@
 <h2>🙋‍♂️ Greeting</h2>
 I am an experienced and highly motivated software engineer with over 5 years of experience in developing software products from scratch and maintanence. My expertise lies in building innovative, unique and user-friendly software across various technologies and platforms.
 
-I consistently strive to bring my clients' ideas to life and contribute to their business growth. Throughout my professional career, I prioritize delivering clean, scalable, maintainable, and modular code that adheres to best practices in UI design and project management.
-
-I have a knack for Database Administration and Server management including DataDog, Kubernetes, Azure, GTM, Heroku. It leads me to effectively streamlin and optimize complex systems, ensuring maximum efficiency and reliability.
-
-I believe in working with transparency, meaning that I meticulously plan and propose valuable ideas based on the clients' requirements while ensuring the highest level of quality. Moreover, I am available across all time zones, so please do not hesitate to reach out to me at any time.
-
  <h4>My strengths are :</h4>
   * Fast-learner : Fast recognition for getting the bottom of problem, exact making of decision.
   * Passionate and go-getter : Can work 40+ hours per week and flexible for time.

@@ -131,6 +131,12 @@ A highly skillful Developer will help you whenever you need.<br>
       <br>PostgreSQL
     </td>
  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>MongoDB
+    </td>
+ </tr>
 </table>
 <br>
 <br>

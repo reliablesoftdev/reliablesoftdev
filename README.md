@@ -32,10 +32,10 @@ I believe in working with transparency, meaning that I meticulously plan and pro
 ✔️ <b>Blockchain and Web3 Development:</b> Web3.js, Node.js, React, Truffle, Ganache, MetaMask, Hardhat<br>
 ✔️ <b>Smart Contract integration development:</b> DeFi platforms, Crypto wallets, NFT marketplaces<br>
 ✔️ <b>NLP Apps:</b> Rasa Chatbot, Amazon Lex, Kendra, Vicuna, Pinecone<br>
-✔️ <b>Cloud Platform:</b> AWS, DigitalOcean, Microsoft Azure, GCP<br>
+✔️ <b>Cloud Platform:</b> AWS, DigitalOcean, Microsoft Azure, GCP
 
 A highly skillful Developer will help you whenever you need.<br>
-<h3>Thank you</h3>
+<h4><b>Thank you</b></h4>
 
   ## Prefered Technicals
 <p align="center">

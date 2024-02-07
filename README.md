@@ -137,16 +137,24 @@ A highly skillful Developer will help you whenever you need.<br>
       <br>WordPress
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Wix" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".Net" />
+      <br>.Net
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
+      <br>AndroidStudio
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="CloudFlare" />
+      <br>CloudFlare
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Goe" />
+      <br>Go
     </td>
  </tr>
 </table>

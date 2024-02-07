@@ -1,4 +1,4 @@
-<h2>Greeting</h2>
+<h2>🙋‍♂️ Greeting</h2>
 I am an experienced and highly motivated software engineer with over 5 years of experience in developing software products from scratch and maintanence. My expertise lies in building innovative, unique and user-friendly software across various technologies and platforms.
 
 I consistently strive to bring my clients' ideas to life and contribute to their business growth. Throughout my professional career, I prioritize delivering clean, scalable, maintainable, and modular code that adheres to best practices in UI design and project management.

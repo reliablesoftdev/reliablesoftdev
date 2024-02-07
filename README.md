@@ -153,8 +153,12 @@ A highly skillful Developer will help you whenever you need.<br>
       <br>Java
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Goe" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
     </td>
  </tr>
 </table>

@@ -1,4 +1,4 @@
-<h2>🙋‍♂️ Greeting</h2>
+<h2>🙋‍♂️ Welcome to my Git</h2>
 I am an experienced and highly motivated software engineer with over 5 years of experience in developing software products from scratch and maintanence. My expertise lies in building innovative, unique and user-friendly software across various technologies and platforms.
 
  <h4>My strengths are :</h4>

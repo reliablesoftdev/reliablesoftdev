@@ -1,4 +1,4 @@
-<h2>🙋‍♂️ Greeting</h2>
+<h2><img src="blob:https://web.telegram.org/e245aa35-0def-4e16-8132-ae9fe717752e" class="JutR25BuG9LYhLOr69Ix daPpv_C6WkmYIJyCxxOx opacity-transition slow not-open not-shown sticker-media" alt="" draggable="false">Greeting</h2>
 I am an experienced and highly motivated software engineer with over 5 years of experience in developing software products from scratch and maintanence. My expertise lies in building innovative, unique and user-friendly software across various technologies and platforms.
 
  <h4>My strengths are :</h4>
